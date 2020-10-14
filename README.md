@@ -1,0 +1,2 @@
+# 3D-cartesian-printer
+Design and built of a cartesian 3D printer using RAMPS 1.4 shield over Arduino Mega board and embedding marlin firmware over it after calibrating it according to the lead screw pitch, extruder, and different parts. I used the Repetier host for controlling the printer. Skills used - 3D Modeling, 3D slicing, Prusa, STL, Solid Works, 3D Printing, PLA, Bed levelling, Embedded Testing, Embedded Design, Repetier Host, RAMPS 1.4, Marlin firmware
